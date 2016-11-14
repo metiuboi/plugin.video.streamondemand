@@ -24,7 +24,7 @@ headers = [
     ['Accept-Encoding', 'gzip, deflate']
 ]
 
-host = "http://www.guardaserie.club"
+host = "http://www.guardaserie.club/"
 
 
 def isGeneric():

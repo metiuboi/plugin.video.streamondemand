@@ -25,7 +25,7 @@ headers = [
     ['Accept-Encoding', 'gzip, deflate']
 ]
 
-host = 'http://filmstream.re/'
+host = 'http://filmstreamita.com//'
 
 DEBUG = config.get_setting("debug")
 

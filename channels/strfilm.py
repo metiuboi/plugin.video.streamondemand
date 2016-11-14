@@ -21,7 +21,7 @@ __language__ = "IT"
 
 DEBUG = config.get_setting("debug")
 
-host = "http://www.strfilm.it/"
+host = "http://www.strfilm.com/"
 
 
 def isGeneric():
